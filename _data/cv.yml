@@ -76,24 +76,28 @@ cv:
         location: London, UK
         start_date: 2022
         end_date: 2023
+        summary: Demonstrator.
 
       - company: University College London
         position: Teaching Assistant — Electromagnetic Theory
         location: London, UK
         start_date: 2022
         end_date: 2024
+        summary: Problem-solving demonstrator; marking.
 
       - company: University College London
         position: Teaching Assistant — Practical Physics & Computing 1 (Python)
         location: London, UK
         start_date: 2023
         end_date: 2024
+        summary: Demonstrator.
 
       - company: University College London
         position: Teaching Assistant — Linear Algebra and Vector Calculus
         location: London, UK
         start_date: 2023
         end_date: 2024
+        summary: Problem-solving demonstrator.
 
     Skills:
       - name: Programming
