@@ -72,32 +72,32 @@ cv:
 
     Teaching:
       - company: University College London
-        position: Teaching Assistant — Computational Physics
+        position: Computational Physics
         location: London, UK
         start_date: 2022
         end_date: 2023
-        summary: Demonstrator.
+        summary: Teaching Assistant (demonstrator).
 
       - company: University College London
-        position: Teaching Assistant — Electromagnetic Theory
+        position: Electromagnetic Theory
         location: London, UK
         start_date: 2022
         end_date: 2024
-        summary: Problem-solving demonstrator; marking.
+        summary: Teaching Assistant (problem-solving demonstrator, marking).
 
       - company: University College London
-        position: Teaching Assistant — Practical Physics & Computing 1 (Python)
+        position: Practical Physics and Computing 1 (Python)
         location: London, UK
         start_date: 2023
         end_date: 2024
-        summary: Demonstrator.
+        summary: Teaching Assistant (demonstrator).
 
       - company: University College London
-        position: Teaching Assistant — Linear Algebra and Vector Calculus
+        position: Linear Algebra and Vector Calculus
         location: London, UK
         start_date: 2023
         end_date: 2024
-        summary: Problem-solving demonstrator.
+        summary: Teaching Assistant (problem-solving demonstrator).
 
     Skills:
       - name: Programming
