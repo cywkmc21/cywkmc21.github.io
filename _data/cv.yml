@@ -95,16 +95,6 @@ cv:
         start_date: 2023
         end_date: 2024
 
-    Awards:
-      - title: Development and Promotion for Science and Technology Talents Project (DPST) Scholarship
-        authors:
-          - Royal Thai Government
-        date: 2013
-        awarder: Royal Thai Government, Thailand
-        summary: >
-          Full scholarship for undergraduate, master's and doctoral studies in
-          science and technology, awarded to top-performing Thai students.
-
     Skills:
       - name: Programming
         level: Advanced
