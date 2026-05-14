@@ -13,14 +13,8 @@ profile:
     <p>University of Birmingham</p>
     <p>Edgbaston, Birmingham B15 2TT, UK</p>
 
-selected_papers: true
+selected_papers: false
 social: true
-
-announcements:
-  enabled: false
-
-latest_posts:
-  enabled: false
 ---
 
 I am a computational materials physicist working on defects, disorder, and reactivity in wide-bandgap oxide semiconductors. My research combines **density-functional theory (DFT)**, ***ab initio* and classical molecular dynamics**, and **machine-learning interatomic potentials** to understand how local atomic structure controls electronic behaviour in functional materials.
