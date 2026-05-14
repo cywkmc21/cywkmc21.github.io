@@ -1,0 +1,159 @@
+cv:
+  name: Chaiyawat Kaewmeechai
+  label: Postdoctoral Researcher
+  email: c.kaewmeechai@bham.ac.uk
+  location: Birmingham, UK
+  image: ""
+  summary: >
+    Computational materials physicist specialising in defects, disorder and
+    charge trapping in wide-bandgap oxide semiconductors using DFT, molecular
+    dynamics and machine-learning interatomic potentials.
+
+  social_networks:
+    - network: GitHub
+      username: cywkmc21
+    - network: LinkedIn
+      username: chaiyawat-kaewmeechai-12160b1a9
+
+  address:
+    street: School of Chemistry
+    city: Birmingham
+    region: West Midlands
+    postalCode: B15 2TT
+    countryCode: UK
+
+  sections:
+    Education:
+      - institution: University College London (UCL)
+        location: London, UK
+        url: https://www.ucl.ac.uk/
+        area: Condensed Matter and Materials Physics
+        studyType: PhD
+        start_date: 2021-04
+        end_date: 2025
+        courses: "Defect modelling in crystalline and amorphous Ga₂O₃ (Supervisor: Prof. A. L. Shluger)"
+
+      - institution: Chiang Mai University
+        location: Chiang Mai, Thailand
+        url: https://www.cmu.ac.th/
+        area: Physics
+        studyType: MSc
+        start_date: 2017-06
+        end_date: 2019-08
+
+      - institution: Chiang Mai University
+        location: Chiang Mai, Thailand
+        area: Physics
+        studyType: BSc
+        start_date: 2013-06
+        end_date: 2017-03
+
+    Experience:
+      - company: University of Birmingham
+        position: Postdoctoral Researcher
+        location: Birmingham, UK
+        start_date: 2025
+        summary: >
+          Computational modelling of materials using DFT, molecular dynamics
+          and machine-learning interatomic potentials.
+
+      - company: University College London
+        position: PhD Researcher (CMMP Group)
+        location: London, UK
+        start_date: 2021-04
+        end_date: 2025
+        summary: >
+          Investigated point defects, charge trapping and oxygen interstitials in
+          crystalline (α, β, ε) and amorphous Ga₂O₃ using DFT, AIMD and classical
+          MD; trained MACE machine-learning force fields for non-stoichiometric
+          amorphous GaOₓ.
+
+      - company: Chiang Mai University
+        position: Research Assistant
+        location: Chiang Mai, Thailand
+        start_date: 2019
+        end_date: 2020
+        summary: >
+          Designed non-toxic Cs₂(Ti, Zr, Hf)X₆ vacancy-ordered double perovskites
+          as light absorbers in solar cells (Supervisors: Assoc. Prof. A. P.
+          Jaroenjittichai and Y. Laosiritaworn).
+
+    Teaching:
+      - company: University College London
+        position: Teaching Assistant — Computational Physics
+        location: London, UK
+        start_date: 2022
+        end_date: 2023
+
+      - company: University College London
+        position: Teaching Assistant — Electromagnetic Theory
+        location: London, UK
+        start_date: 2022
+        end_date: 2024
+
+      - company: University College London
+        position: Teaching Assistant — Practical Physics & Computing 1 (Python)
+        location: London, UK
+        start_date: 2023
+        end_date: 2024
+
+      - company: University College London
+        position: Teaching Assistant — Linear Algebra and Vector Calculus
+        location: London, UK
+        start_date: 2023
+        end_date: 2024
+
+    Awards:
+      - title: Development and Promotion for Science and Technology Talents Project (DPST) Scholarship
+        authors:
+          - Royal Thai Government
+        date: 2013
+        awarder: Royal Thai Government, Thailand
+        summary: >
+          Full scholarship for undergraduate, master's and doctoral studies in
+          science and technology, awarded to top-performing Thai students.
+
+    Skills:
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, Bash, MATLAB, Linux/HPC, SLURM"
+
+      - name: DFT codes
+        level: Advanced
+        icon: fa-solid fa-atom
+        keywords: "Quantum ESPRESSO, CP2K, ABINIT"
+
+      - name: Molecular dynamics
+        level: Advanced
+        icon: fa-solid fa-arrows-spin
+        keywords: "LAMMPS, AIMD, MACE machine-learning force fields"
+
+      - name: Scientific Python
+        level: Advanced
+        icon: fa-solid fa-flask
+        keywords: "NumPy, SciPy, ASE, pymatgen, matplotlib"
+
+    Languages:
+      - name: Thai
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent (academic and professional)"
+
+    Interests:
+      - name: Materials Physics
+        icon: fa-solid fa-atom
+        keywords: "Defects, polarons, wide-bandgap semiconductors, amorphous solids, machine-learning potentials"
+
+    References:
+      - name: Prof. Alexander L. Shluger
+        icon: fa-solid fa-user-graduate
+        reference: PhD supervisor — Condensed Matter & Materials Physics, UCL. a.shluger@ucl.ac.uk
+
+      - name: Dr. Jack Strand
+        icon: fa-solid fa-user-graduate
+        reference: PhD co-supervisor — UCL. jack.strand.14@ucl.ac.uk
+
+      - name: Prof. Duangmanee Wongratanaphisan
+        icon: fa-solid fa-user-graduate
+        reference: Lecturer in Physics, Chiang Mai University. Specialist in perovskite solar cells. duangmanee.wong@cmu.ac.th
