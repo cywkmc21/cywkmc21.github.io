@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: >
-    <p>School of Chemistry</p>
-    <p>University of Birmingham</p>
-    <p>Edgbaston, Birmingham B15 2TT, UK</p>
 
 selected_papers: true
 social: true
