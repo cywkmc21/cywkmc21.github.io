@@ -5,7 +5,7 @@ permalink: /
 subtitle: Postdoctoral Researcher · <a href='https://www.birmingham.ac.uk/'>University of Birmingham</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true
 
