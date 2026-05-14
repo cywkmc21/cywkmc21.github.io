@@ -54,8 +54,6 @@ cv:
         location: Birmingham, UK
         start_date: 2025
         summary: >
-          Computational modelling of materials using DFT, molecular dynamics
-          and machine-learning interatomic potentials.
 
       - company: University College London
         position: PhD Researcher (CMMP Group)
@@ -64,19 +62,13 @@ cv:
         end_date: 2025
         summary: >
           Investigated point defects, charge trapping and oxygen interstitials in
-          crystalline (α, β, ε) and amorphous Ga₂O₃ using DFT, AIMD and classical
-          MD; trained MACE machine-learning force fields for non-stoichiometric
-          amorphous GaOₓ.
+          crystalline (α, β, ε) and amorphous Ga₂O₃.
 
       - company: Chiang Mai University
         position: Research Assistant
         location: Chiang Mai, Thailand
         start_date: 2019
         end_date: 2020
-        summary: >
-          Designed non-toxic Cs₂(Ti, Zr, Hf)X₆ vacancy-ordered double perovskites
-          as light absorbers in solar cells (Supervisors: Assoc. Prof. A. P.
-          Jaroenjittichai and Y. Laosiritaworn).
 
     Teaching:
       - company: University College London
@@ -145,15 +137,3 @@ cv:
         icon: fa-solid fa-atom
         keywords: "Defects, polarons, wide-bandgap semiconductors, amorphous solids, machine-learning potentials"
 
-    References:
-      - name: Prof. Alexander L. Shluger
-        icon: fa-solid fa-user-graduate
-        reference: PhD supervisor — Condensed Matter & Materials Physics, UCL. a.shluger@ucl.ac.uk
-
-      - name: Dr. Jack Strand
-        icon: fa-solid fa-user-graduate
-        reference: PhD co-supervisor — UCL. jack.strand.14@ucl.ac.uk
-
-      - name: Prof. Duangmanee Wongratanaphisan
-        icon: fa-solid fa-user-graduate
-        reference: Lecturer in Physics, Chiang Mai University. Specialist in perovskite solar cells. duangmanee.wong@cmu.ac.th
