@@ -443,20 +443,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/Chaiyawat_Kaewmeechai_CV.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%63.%6B%61%65%77%6D%65%65%63%68%61%69@%62%68%61%6D.%61%63.%75%6B", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -469,13 +455,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=rg3R9-IAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/chaiyawat-kaewmeechai-12160b1a9", "_blank");
         },
       },{
         id: 'social-researchgate',
@@ -492,11 +471,11 @@ ninja.data = [{
           window.open("https://github.com/cywkmc21", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/chaiyawat-kaewmeechai-12160b1a9", "_blank");
         },
       },{
       id: 'light-theme',
