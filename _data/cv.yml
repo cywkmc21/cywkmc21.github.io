@@ -49,7 +49,7 @@ cv:
         end_date: 2017-03
 
     Experience:
-      - company: University of Birmingham
+      - company: Scanlon Materials Theory Group, University of Birmingham
         position: Postdoctoral Researcher
         location: Birmingham, UK
         start_date: 2025
@@ -58,7 +58,7 @@ cv:
       - company: University College London
         position: PhD Researcher (CMMP Group)
         location: London, UK
-        start_date: 2021-04
+        start_date: 2021-05
         end_date: 2025
         summary: >
           Investigated point defects, charge trapping and oxygen interstitials in
