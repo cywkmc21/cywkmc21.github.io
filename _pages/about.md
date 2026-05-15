@@ -26,7 +26,7 @@ I completed my PhD in the [Condensed Matter & Materials Physics Group](https://w
 **Research interests**
 
 - Point defects, polarons, and charge trapping in oxide semiconductors
-- Amorphous and crystalline phases of Ga₂O₃ (α, β, ε)
+- Amorphous and crystalline metal oxides
 - Machine-learning interatomic potentials for disordered materials
 - Halide perovskites for photovoltaic applications
 
