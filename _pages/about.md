@@ -21,7 +21,7 @@ latest_posts:
 
 I am a computational materials physicist working on defects, disorder, and reactivity in wide-bandgap oxide semiconductors. My research combines **density-functional theory (DFT)**, ***ab initio* and classical molecular dynamics**, and **machine-learning interatomic potentials** to understand how local atomic structure controls electronic behaviour in functional materials.
 
-I completed my PhD in the [Condensed Matter & Materials Physics Group](https://www.ucl.ac.uk/condensed-matter-material-physics/) at UCL under Prof. Alexander Shluger, focusing on charge trapping and point defects in crystalline and amorphous Ga₂O₃.
+I completed my PhD in the [Condensed Matter & Materials Physics Group](https://www.ucl.ac.uk/condensed-matter-material-physics/) at UCL.
 
 **Research interests**
 
