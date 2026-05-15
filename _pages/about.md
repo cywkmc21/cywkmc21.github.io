@@ -31,4 +31,4 @@ I completed my PhD in the [Condensed Matter & Materials Physics Group](https://w
 - Halide perovskites for photovoltaic applications
 - Nitride semiconductors
 
-Before UCL, I obtained my BSc and MSc in Physics at Chiang Mai University, working on band alignment of wurtzite semiconductors and the design of non-toxic Cs₂(Ti, Zr, Hf)X₆ halide perovskites for solar cells.
+Before UCL, I obtained my BSc and MSc in Physics at Chiang Mai University, working on band alignment of wurtzite semiconductors and non-toxic halide perovskites for solar cells.
