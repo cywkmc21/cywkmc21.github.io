@@ -102,22 +102,22 @@ cv:
     Skills:
       - name: Programming
         level: Advanced
-        icon: fa-solid fa-code
+        icon:  
         keywords: "Python, C/C++, Bash, MATLAB, Linux/HPC, SLURM"
 
       - name: DFT codes
         level: Advanced
-        icon: fa-solid fa-atom
-        keywords: "Quantum ESPRESSO, CP2K, ABINIT"
+        icon:  
+        keywords: "Quantum ESPRESSO, CP2K, ABINIT, VASP"
 
       - name: Molecular dynamics
         level: Advanced
-        icon: fa-solid fa-arrows-spin
+        icon:  
         keywords: "LAMMPS, AIMD, machine-learning force fields"
 
       - name: Scientific Python
         level: Advanced
-        icon: fa-solid fa-flask
+        icon:  
         keywords: "NumPy, SciPy, ASE, pymatgen, matplotlib"
 
     Languages:
@@ -128,6 +128,6 @@ cv:
 
     Interests:
       - name: Materials Physics
-        icon: fa-solid fa-atom
+        icon:  
         keywords: "Defects, polarons, wide-bandgap semiconductors, amorphous solids, machine-learning potentials"
 
