@@ -113,7 +113,7 @@ cv:
       - name: Molecular dynamics
         level: Advanced
         icon: fa-solid fa-arrows-spin
-        keywords: "LAMMPS, AIMD, MACE machine-learning force fields"
+        keywords: "LAMMPS, AIMD, machine-learning force fields"
 
       - name: Scientific Python
         level: Advanced
