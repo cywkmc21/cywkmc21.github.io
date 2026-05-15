@@ -18,7 +18,7 @@ cv:
   address:
     street: School of Chemistry
     city: Birmingham
-    region: West Midlands
+    region: 
     postalCode: B15 2TT
     countryCode: UK
 
@@ -62,7 +62,7 @@ cv:
         end_date: 2025
         summary: >
           Investigated point defects, charge trapping and oxygen interstitials in
-          crystalline (α, β, ε) and amorphous Ga₂O₃.
+          crystalline and amorphous Ga₂O₃.
 
       - company: Chiang Mai University
         position: Research Assistant
