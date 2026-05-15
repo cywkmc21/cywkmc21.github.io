@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a computational materials physicist working on defects, amorphous structures, and degradation mechanisms in wide-bandgap oxide semiconductors. My research combines **density-functional theory (DFT)**, ***ab initio* and classical molecular dynamics**, and **machine-learning interatomic potentials** to understand how local atomic structure controls electronic behaviour in functional materials.
+I am a computational materials physicist working on defects, amorphous structures, and defect creation mechanisms in wide-bandgap oxide semiconductors. My research combines **density-functional theory**, ***ab initio* and classical molecular dynamics**, and **machine-learning interatomic potentials** to understand how local atomic structure controls electronic behaviour in functional materials.
 
 I completed my PhD in the [Condensed Matter & Materials Physics Group](https://www.ucl.ac.uk/condensed-matter-material-physics/) at UCL.
 
@@ -29,5 +29,6 @@ I completed my PhD in the [Condensed Matter & Materials Physics Group](https://w
 - Amorphous and crystalline metal oxides
 - Machine-learning interatomic potentials for disordered materials
 - Halide perovskites for photovoltaic applications
+- Nitride semiconductors
 
 Before UCL, I obtained my BSc and MSc in Physics at Chiang Mai University, working on band alignment of wurtzite semiconductors and the design of non-toxic Cs₂(Ti, Zr, Hf)X₆ halide perovskites for solar cells.
