@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a computational materials physicist working on defects, disorder, and reactivity in wide-bandgap oxide semiconductors. My research combines **density-functional theory (DFT)**, ***ab initio* and classical molecular dynamics**, and **machine-learning interatomic potentials** to understand how local atomic structure controls electronic behaviour in functional materials.
+I am a computational materials physicist working on defects, amorphous structures, and degradation mechanisms in wide-bandgap oxide semiconductors. My research combines **density-functional theory (DFT)**, ***ab initio* and classical molecular dynamics**, and **machine-learning interatomic potentials** to understand how local atomic structure controls electronic behaviour in functional materials.
 
 I completed my PhD in the [Condensed Matter & Materials Physics Group](https://www.ucl.ac.uk/condensed-matter-material-physics/) at UCL.
 
