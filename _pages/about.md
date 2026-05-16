@@ -27,7 +27,7 @@ I completed my PhD in the [Condensed Matter & Materials Physics Group](https://w
 
 - Point defects, polarons, and charge trapping in oxide semiconductors
 - Amorphous and crystalline metal oxides
-- Machine-learning interatomic potentials for disordered materials
+- Machine-learning interatomic potentials for amorphous materials
 - Halide perovskites for photovoltaic applications
 - Nitride semiconductors
 
