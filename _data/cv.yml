@@ -56,7 +56,7 @@ cv:
         summary: >
 
       - company: University College London
-        position: PhD Researcher (Supervisor: Prof. Alexander L. Shluger )
+        position: "PhD Researcher (Supervisor: Prof. Alexander L. Shluger)"
         location: London, UK
         start_date: 2021-05
         end_date: 2025
